@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sajidhussaint
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html,js,css
-- 💞️ I’m looking to collaborate on js.node
+- 👋 Hi, I’m sajidhussain T
+- 👀 I’m a Fullstack Mern developer 
+
 
 <!---
 sajidhussaint/sajidhussaint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
