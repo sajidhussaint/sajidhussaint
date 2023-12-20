@@ -15,7 +15,7 @@
 <h2 align="left">Connect With Me:</h2>
 <br>
 <p align="left">
-<a href="www.linkedin.com/in/sajid-hussain-17b6b21b8" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=135&color=386aff" alt="" height="40" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sajid-hussain-17b6b21b8/" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=135&color=386aff" alt="" height="40" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="40" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="40" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/SAJIDHUSSAINT/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="40" width="50"/></a>
