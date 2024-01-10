@@ -16,9 +16,9 @@ Passionate about coding and creating seamless user experiences, I specialize in 
 
 Ready to collaborate or have an exciting project in mind? Let's bring it to life together! Connect with me and let's create something extraordinary.
 
-🌐 **LeetCode:** [[Link](https://leetcode.com/SAJIDHUSSAINT/)]  
+🌐 **LeetCode:** [[SAJIDHUSSAINT](https://leetcode.com/SAJIDHUSSAINT/)]  
 📧 **Email:** [sajidtmpm@gmail.com]  
-📱 **LinkedIn:** [[Link](https://www.linkedin.com/in/sajid-hussain-17b6b21b8/)https://www.linkedin.com/in/sajid-hussain-17b6b21b8/]  
+📱 **LinkedIn:** [[sajid-hussain](https://www.linkedin.com/in/sajid-hussain-17b6b21b8/)]  
 
 
 Let's code the future! 🚀
