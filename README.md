@@ -10,7 +10,7 @@ Passionate about coding and creating seamless user experiences, I specialize in 
 **Backend:** Node.js, Express.js, MongoDB, PostgreSQL  
 **UI Frameworks:** Bootstrap, Tailwind CSS  
 **Templating Engines:** EJS, Handlebars  
-**Other Tools:** TypeScript, GIT, POSTMAN API  
+**Other Tools:** TypeScript, GIT, POSTMAN API ,FireBase
 
 ### Let's Connect!
 
