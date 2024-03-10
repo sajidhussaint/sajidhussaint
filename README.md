@@ -1,4 +1,4 @@
-Hello there! 👋 I'm Sajid Hussain T, a MERN Stack Developer and Full Stack Engineer on a mission to bring web applications to life! 🚀.
+Hello there! 👋 I'm Sajid Hussain T, a MERN Stack Developer and Full Stack Engineer on a mission to bring web applications to life! 🚀
 
 ### About Me:
 
