@@ -6,7 +6,7 @@ Passionate about coding and creating seamless user experiences, I specialize in 
 
 ### Tech Stack:
 
-**Frontend:** React, Redux, HTML, CSS, JavaScript  
+**Frontend:** React, Redux, Zustand, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express.js, MongoDB, PostgreSQL  
 **UI Frameworks:** Bootstrap, Tailwind CSS  
 **Templating Engines:** EJS, Handlebars  
