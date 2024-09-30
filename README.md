@@ -1,5 +1,5 @@
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 Hello there! 👋 I'm Sajid Hussain T, a MERN Stack Developer and Full Stack Engineer on a mission to bring web applications to life! 🚀
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 
 
 ### About Me:
