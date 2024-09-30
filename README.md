@@ -1,10 +1,12 @@
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 Hello there! 👋 I'm Sajid Hussain T, a MERN Stack Developer and Full Stack Engineer on a mission to bring web applications to life! 🚀
+
 
 ### About Me:
 
 Passionate about coding and creating seamless user experiences, I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack. With a knack for turning ideas into dynamic applications, I thrive in the ever-evolving world of web development.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+
 
 
 
